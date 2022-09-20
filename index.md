@@ -47,4 +47,27 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210925/2021092516
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210925/202109251626007na1g.png"/>
 	</div>
 </section>
+
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210607/202106072204447pjvt.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210607/202106072204447pjvt.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">Potplayer</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款简单而实用的本地视频播放器；
+自动识别手机中的所有视频，支持快速导入，拥有强大的视频解码能力，支持常用格式的视频播放；
+内置简单便捷的视频编辑功能，如果碰到心动的视频片段，还能在这里裁剪下来保存哦；
+精选高清主题壁纸，满足您各种类型的壁纸喜好。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/2022070517280865v9e.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/202207051728137iq9s.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/2022070517281837txj.png"/>
+	</div>
+</section>
+
+
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">深圳市斯塔克计算机系统有限公司 粤 ICP 备 2022114440 号</a>
