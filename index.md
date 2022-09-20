@@ -1,4 +1,4 @@
-## 深圳斯塔克计算机系统有限公司
+## 深圳市斯塔克计算机系统有限公司
 
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
@@ -17,4 +17,4 @@
 	</div>
 </section>
 
-<a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">深圳斯塔克计算机系统有限公司 湘 ICP 备 2022015823 号</a>
+<a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">深圳市斯塔克计算机系统有限公司 粤 ICP 备 2022114440 号</a>
