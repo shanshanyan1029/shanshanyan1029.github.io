@@ -15,7 +15,7 @@
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210901/202109012103126e0ue.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/202109012104325s3p9.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/20210901210437463q4.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/202109012104430mllu.png"/>
 	</div>
