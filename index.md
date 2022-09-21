@@ -134,7 +134,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211129/2021112915
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">抉择简单</b>
-		<p style="margin: 0; font-size: 14px;color: #999;"一个用来帮助你快速做决定的应用。
+		<p style="margin: 0; font-size: 14px;color: #999;">一个用来帮助你快速做决定的应用。
 转一转转盘，和朋友一起互动，在聚餐的时候可以与您的朋友一起玩“大冒险轮盘”，帮你做个决定。
 可以自己定义添加你要决定的事件和选项。</p>
 	</div>
@@ -153,7 +153,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/2022092110
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">飘花视频播放器</b>
-		<p style="margin: 0; font-size: 14px;color: #999;"一款多功能本地视频播放器，支持大部分格式的视频和音频。
+		<p style="margin: 0; font-size: 14px;color: #999;">一款多功能本地视频播放器，支持大部分格式的视频和音频。
 实用视频工具的聚合体，您的专属播放与编辑工具。
 【视频导入】支持相册快速导入视频、拍摄导入，告别繁琐。
 【私密文件】喜欢的精彩视频、图片可以存入私密相册哦。
