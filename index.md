@@ -127,6 +127,24 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211129/2021112915
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/202209211038257ct62.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/202209211038257ct62.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">抉择简单</b>
+		<p style="margin: 0; font-size: 14px;color: #999;"一个用来帮助你快速做决定的应用。
+转一转转盘，和朋友一起互动，在聚餐的时候可以与您的朋友一起玩“大冒险轮盘”，帮你做个决定。
+可以自己定义添加你要决定的事件和选项。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211042056hqii.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211042090y6o6.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211042141683q.png"/>
+	</div>
+</section>
 
 
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">深圳市斯塔克计算机系统有限公司 粤 ICP 备 2022114440 号</a>
