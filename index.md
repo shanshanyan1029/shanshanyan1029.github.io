@@ -21,28 +21,6 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/2022092110
 	</div>
 </section>
 
-
-<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210901/202109012103126e0ue.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210901/202109012103126e0ue.png">下载</a>
-	</div>
-	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">天空视频播放器</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">天空视频播放器是一款本地视频播放器，可以流畅地播放本地高清视频文件。
---支持不同格式的视频。
---自带自我视频创作功能，加入简单而又有实用的视频编辑功能。
---隐私加密设置，留下自我的空间。</p>
-	</div>
-	<div style="display: flex; margin-left: 6px;">
-		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/202109012104325s3p9.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/20210901210437463q4.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/202109012104430mllu.png"/>
-	</div>
-</section>
-
-
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210925/2021092516232204yg7.png"/>
@@ -149,22 +127,29 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/2022092110
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220124/202201241223259fotu.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220124/202201241223259fotu.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220922/202209221758137us3f.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220922/202209221758137us3f.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">飘花视频播放器</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款多功能本地视频播放器，支持大部分格式的视频和音频。
-实用视频工具的聚合体，您的专属播放与编辑工具。
-【视频导入】支持相册快速导入视频、拍摄导入，告别繁琐。
-【私密文件】喜欢的精彩视频、图片可以存入私密相册哦。
-【视频相册】选择合适的切换模式、音乐即可完成制作自己的动感相册。</p>
+		<b style="font-size: 16px;color: #333;">大象视频</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">你身边的全能剪辑工具，专为视频剪辑用户的需求而定制。
+支持视频剪辑，倒放，滤镜，提取音频等功能，无论是你想要剪辑短视频vlog，打造爆款视频，还是想尽情挥洒想象力，全都轻松搞定。
+唤起您的创作灵感
+【剪辑】裁剪视频一步到位，初学者都可以快速完成；
+【拼接】炫目的视频过渡效果，完美合并视频；
+【贴纸】海量贴纸，一键复制替换，给你带来视频创作新灵感。
+【文字】自定义文字颜色、字体，让你的字幕与众不同；
+发挥你的天马行空
+【滤镜】专业的风格滤镜效果，改变视频风格；
+【变速】从0.25倍慢速到3倍快速，轻松改变视频节奏；
+【音频提取】轻松对喜爱的音频进行提取，点亮每一次创作；
+【音乐相册】丰富音乐、音效素材库，让你的影集更加“声”动；</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220124/202201241224041dfjc.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220124/202201241224092jvnh.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220124/202201241224141xinw.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220922/202209221801111li4y.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220922/2022092218024518ipt.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220922/202209221802489ywfm.png"/>
 	</div>
 </section>
 
