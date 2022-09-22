@@ -49,7 +49,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210901/2021090121
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210925/2021092516232204yg7.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">手机换机克隆助手</b>
+		<b style="font-size: 16px;color: #333;">一键手机换机克隆助手</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一键解决你搬家克隆换机的问题！换机搬家不再愁！
 无需数据线，不需要电脑, 让你轻松克隆换机成功！
 【给您安全、快速、简单、便捷的搬家克隆体验】
@@ -134,7 +134,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211129/2021112915
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/202209211038257ct62.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">决择简单</b>
+		<b style="font-size: 16px;color: #333;">S决择简单</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一个用来帮助你快速做决定的应用。
 转一转转盘，和朋友一起互动，在聚餐的时候可以与您的朋友一起玩“大冒险轮盘”，帮你做个决定。
 可以自己定义添加你要决定的事件和选项。</p>
