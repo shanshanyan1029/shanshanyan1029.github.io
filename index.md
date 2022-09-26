@@ -112,7 +112,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211129/2021112915
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/202209211038257ct62.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">决择简单</b>
+		<b style="font-size: 16px;color: #333;">S决择简单</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一个用来帮助你快速做决定的应用。
 转一转转盘，和朋友一起互动，在聚餐的时候可以与您的朋友一起玩“大冒险轮盘”，帮你做个决定。
 可以自己定义添加你要决定的事件和选项。</p>
@@ -131,7 +131,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/2022092110
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220924/202209240916331s7ov.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">AH视频</b>
+		<b style="font-size: 16px;color: #333;">AH视频编辑</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">你身边的全能剪辑工具，专为视频剪辑用户的需求而定制。
 支持视频剪辑，倒放，滤镜，提取音频等功能，无论是你想要剪辑短视频vlog，打造爆款视频，还是想尽情挥洒想象力，全都轻松搞定。
 唤起您的创作灵感
