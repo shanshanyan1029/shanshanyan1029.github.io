@@ -159,7 +159,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220922/2022092218
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220926/202209261015441joyd.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">TwinCalc计算器军军</b>
+		<b style="font-size: 16px;color: #333;">TwinCalc计算器</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">TwinCalc计算器是一款操作简单，方便好用，实际性的解决各种计算、单位换算的计算器。 
 【计算器】
   基础计算器、支持语音功能，按键震动与声音，计算历史记录查询
