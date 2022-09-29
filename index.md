@@ -108,20 +108,25 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211129/2021112915
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/202209211038257ct62.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220921/202209211038257ct62.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272304111fhc2.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220927/202209272304111fhc2.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">S决择简单</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一个用来帮助你快速做决定的应用。
-转一转转盘，和朋友一起互动，在聚餐的时候可以与您的朋友一起玩“大冒险轮盘”，帮你做个决定。
-可以自己定义添加你要决定的事件和选项。</p>
+		<b style="font-size: 16px;color: #333;">手机遥控器精灵</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">手机遥控器精灵让你的手机轻松化身全能遥控器，便捷日常生活。
+支持空调，电视，机顶盒、风扇等多种电器，再也不用到处找遥控器了；
+支持手机智能连接打印机、投影仪、电脑等，随时随地便捷生活；
+
+掌上的智能小管家
+方便携带 － 想用就用，随时随地遥控
+简单易懂 － 简约的界面设计一看就懂，简单遥控
+智能控制 － 遥控空调\遥控电视都可随心调节</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211042056hqii.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211042090y6o6.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220921/202209211042141683q.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220927/202209272312374wxvb.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220927/202209272312416y13p.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220927/2022092723124697x78.png"/>
 	</div>
 </section>
 
