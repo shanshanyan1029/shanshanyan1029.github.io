@@ -192,7 +192,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220929/2022092911
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
 src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211201/202112011205554jfqr.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211201/2021120112055970uae.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220930/202209301458314k8eq.png"/>
 		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211201/202112011206051sc3d.png"/>
 	</div>
 </section>
