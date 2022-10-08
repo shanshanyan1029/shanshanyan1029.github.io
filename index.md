@@ -7,7 +7,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221005/2022100522295007qgv.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">韩站TV投屏</b>
+		<b style="font-size: 16px;color: #333;">韩小圈投屏</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款帮您将手机上的内容投屏到更大屏幕的软件。
 功能特点：
 1、本地资源投屏，包括视频、图片、音频文件投屏到电视大屏上面；
