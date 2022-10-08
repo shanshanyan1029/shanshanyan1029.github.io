@@ -30,7 +30,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221005/2022100522
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">靠谱课代表</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款简单便捷靠谱的学习辅助小助手，可以轻松帮您计划与管理好课程信息。 功能特点： A：能帮你做好时间规划和课程记录，是您的日常学习小助手，协助做好每日学习计划，每周课程纪录： B：快速方便，要事随时记录，支持彩色标签便捷地标记每一类课程： C：方便及时添加待办事项，以防繁忙的自我而忘记重要的事情或者日子：军军22:28</p>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款简单便捷靠谱的学习辅助小助手，可以轻松帮您计划与管理好课程信息。 功能特点： A：能帮你做好时间规划和课程记录，是您的日常学习小助手，协助做好每日学习计划，每周课程纪录： B：快速方便，要事随时记录，支持彩色标签便捷地标记每一类课程： C：方便及时添加待办事项，以防繁忙的自我而忘记重要的事情或者日子：</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
