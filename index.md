@@ -25,6 +25,23 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221005/2022100522
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220627/2022062712243443glb.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220627/2022062712243443glb.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">微相册</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">微相册是我们倾力打造的一款相册管理和视频修复美化集一身功能的APP！ 亮点特色： 1 清爽简洁的UI界面，方便易懂的设计，为你带来更舒适的用户体验。 2 能快速的依据时间帮您管理相册，支持创建个性相册分类管理，打造自己的相册世界。 3 支持实时记录生活，留住您心动的一刹那，回忆就在此刻。 4 简单实用的编辑工具，打造独特的风格，惊艳您的朋友圈。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220627/202206271226472kjwe.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220627/202206271226521prtr.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220627/202206271226568qd16.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210082202243rtmc.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221008/202210082202243rtmc.png">下载</a>
 	</div>
