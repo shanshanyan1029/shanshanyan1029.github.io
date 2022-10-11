@@ -3,8 +3,8 @@
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221005/2022100522295007qgv.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221005/2022100522295007qgv.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221011/2022101111323273q86.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221011/2022101111323273q86.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">韩小圈投屏</b>
