@@ -64,7 +64,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221008/2022100822
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210925/2021092516232204yg7.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">一键手机换机克隆助手</b>
+		<b style="font-size: 16px;color: #333;">手机换机克隆助手</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一键解决你搬家克隆换机的问题！换机搬家不再愁！
 无需数据线，不需要电脑, 让你轻松克隆换机成功！
 【给您安全、快速、简单、便捷的搬家克隆体验】
