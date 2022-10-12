@@ -46,7 +46,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220627/2022062712
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221011/2022101111201113d3v.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">拍立得相机</b>
+		<b style="font-size: 16px;color: #333;">可立相机</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款有趣的摄像拍照软件，拥有者海量的特效技能供你使用，让您眼前一亮。 时尚与流行美妆结合，素颜打造完美自然清新风格，质感滤镜记录可甜可盐的瞬间 超好玩的各种特效，让你享受春日郊游的同时，也让您尽显美美自己。 还支持简单的视频录制与编辑，带给您有趣好玩的视频剪辑编辑体验。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
