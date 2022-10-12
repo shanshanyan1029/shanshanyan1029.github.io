@@ -251,4 +251,26 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20211201/2021120112
 	</div>
 </section>
 
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210707/2021070719250924fuu.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210707/2021070719250924fuu.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">樱花动漫壁纸</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">樱花动漫壁纸，专为动漫迷和爱好者倾心打造的精品应用
+每天向你推荐受用户欢迎的动漫壁纸。
+超过20余种不同动漫供你挑选。
+设定专属自己的动漫壁纸。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210707/202107071926096lp8h.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210707/202107071926148cqpc.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210707/202107071926197mph3.jpg"/>
+	</div>
+</section>
+
+
+
 <a style="display: block; margin: 4rem; text-align: center;" href="http://beian.miit.gov.cn/">深圳市斯塔克计算机系统有限公司 粤 ICP 备 2022114440 号</a>
