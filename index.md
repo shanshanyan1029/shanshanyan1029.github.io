@@ -47,7 +47,7 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220627/2022062712
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
 		<b style="font-size: 16px;color: #333;">HeyPet助手</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">TwinCalc计算器是一款操作简单，方便好用，实际性的解决各种计算、单位换算的计算器。</p>
+		<p style="margin: 0; font-size: 14px;color: #999;">动物在想什么呢？ HeyPet助手将您的声音翻译为兽语，让您能直接和猫咪或者狗狗交流，聆听宠物的心声！ 将您的声音进行频谱分析并根据你的输入复述出近似的宠物叫声，让主人-狗狗-猫咪关系更亲密，趣味陪伴萌宠。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
