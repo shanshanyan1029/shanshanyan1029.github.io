@@ -140,21 +140,20 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210925/2021092516
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20210607/202106072204447pjvt.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20210607/202106072204447pjvt.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221025/202210252231383aebr.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221025/202210252231383aebr.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">Potplayer</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款简单而实用的本地视频播放器；
-自动识别手机中的所有视频，支持快速导入，拥有强大的视频解码能力，支持常用格式的视频播放；
-内置简单便捷的视频编辑功能，如果碰到心动的视频片段，还能在这里裁剪下来保存哦；
-精选高清主题壁纸，满足您各种类型的壁纸喜好。</p>
+		<b style="font-size: 16px;color: #333;">青苹果影视播放器</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">专属视频播放器，带来更快的播放体验和更好的视觉效果，精彩手机视频随心播。
+一键手机连接大屏，轻松通过手机来连接电视，随时畅享大屏视觉体验。
+简单实用的视频编辑小工具，唤起您的创作灵感。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/2022070517280865v9e.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/202207051728137iq9s.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20220705/2022070517281837txj.png"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221025/202210252235434ev91.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221025/202210252235531nr7a.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221025/202210252236011fnop.png"/>
 	</div>
 </section>
 
