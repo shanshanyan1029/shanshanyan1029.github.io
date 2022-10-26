@@ -29,8 +29,8 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221005/2022100522
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220627/2022062712243443glb.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">微相册</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">微相册是我们倾力打造的一款相册管理和视频修复美化集一身功能的APP！ 亮点特色： 1 清爽简洁的UI界面，方便易懂的设计，为你带来更舒适的用户体验。 2 能快速的依据时间帮您管理相册，支持创建个性相册分类管理，打造自己的相册世界。 3 支持实时记录生活，留住您心动的一刹那，回忆就在此刻。 4 简单实用的编辑工具，打造独特的风格，惊艳您的朋友圈。</p>
+		<b style="font-size: 16px;color: #333;">微相册大师</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">微相册大师是我们倾力打造的一款相册管理和视频修复美化集一身功能的APP！ 亮点特色： 1 清爽简洁的UI界面，方便易懂的设计，为你带来更舒适的用户体验。 2 能快速的依据时间帮您管理相册，支持创建个性相册分类管理，打造自己的相册世界。 3 支持实时记录生活，留住您心动的一刹那，回忆就在此刻。 4 简单实用的编辑工具，打造独特的风格，惊艳您的朋友圈。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
@@ -137,25 +137,6 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20210925/2021092516
 	</div>
 </section>
 
-
-<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
-	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221025/202210252231383aebr.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221025/202210252231383aebr.png">下载</a>
-	</div>
-	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">青苹果影视播放器</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">专属视频播放器，带来更快的播放体验和更好的视觉效果，精彩手机视频随心播。
-一键手机连接大屏，轻松通过手机来连接电视，随时畅享大屏视觉体验。
-简单实用的视频编辑小工具，唤起您的创作灵感。</p>
-	</div>
-	<div style="display: flex; margin-left: 6px;">
-		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221025/202210252235434ev91.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221025/202210252235531nr7a.png"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221025/202210252236011fnop.png"/>
-	</div>
-</section>
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
