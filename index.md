@@ -59,6 +59,23 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221024/2022102410
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221029/202210291115261dvf1.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221029/202210291115261dvf1.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">泰剧兔</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">喜欢泰剧的小伙伴们快过来看看！ 在这里可以从不同的角度去赏识泰剧的精彩！ 每天为你推荐合口味的泰剧电影与专业的影评解读，让你快速走进泰剧的世界！ 图文结合进行解读，让你更加清晰明确的了解剧情！ 还有海量爱豆壁纸等你来体验！</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/2022102915175660mhy.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291518016kqw4.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221029/202210291518068udv0.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220926/202209261015441joyd.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220926/202209261015441joyd.png">下载</a>
 	</div>
