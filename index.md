@@ -3,11 +3,11 @@
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110221201558x6o.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221102/2022110221201558x6o.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221105/202211051438017semb.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221105/202211051438017semb.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">qooap</b>
+		<b style="font-size: 16px;color: #333;">爱吾游宝盒</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款集休闲益智于一体的游乐软件，类目众多，界面清新简洁； 男女老少轻松上手，重重闯关等你挑战； 更有猜歇后语、智者争霸、猜谜语、猜剧、笑话大全等不同类型的等你来探索。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
