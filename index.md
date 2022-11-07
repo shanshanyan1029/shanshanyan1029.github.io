@@ -7,7 +7,7 @@
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221105/202211051438017semb.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">爱吾游宝盒</b>
+		<b style="font-size: 16px;color: #333;">闪玩空间</b>
 		<p style="margin: 0; font-size: 14px;color: #999;">一款集休闲益智于一体的游乐软件，类目众多，界面清新简洁； 男女老少轻松上手，重重闯关等你挑战； 更有猜歇后语、智者争霸、猜谜语、猜剧、笑话大全等不同类型的等你来探索。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
