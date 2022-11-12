@@ -3,18 +3,18 @@
 <style>html {background: #fefff5;} #content h2 {height: 0; display: none;} body .page-header {background-color: #fefff5; background-image: none; border-bottom: 1px dashed; color: #333; padding: 1rem;} body .project-tagline {margin: 0;} .site-footer {display: none;}</style>
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
-		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221105/202211051438017semb.png"/>
-		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221105/202211051438017semb.png">下载</a>
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121151599axqk.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221112/202211121151599axqk.png">下载</a>
 	</div>
 	<div style="max-height: 200px; overflow: hidden;">
-		<b style="font-size: 16px;color: #333;">闪玩空间</b>
-		<p style="margin: 0; font-size: 14px;color: #999;">一款集休闲益智于一体的游乐软件，类目众多，界面清新简洁； 男女老少轻松上手，重重闯关等你挑战； 更有猜歇后语、智者争霸、猜谜语、猜剧、笑话大全等不同类型的等你来探索。</p>
+		<b style="font-size: 16px;color: #333;">趣玩乐园</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">一款集休闲益智于一体的趣玩软件，类目众多，界面清新简洁； 男女老少轻松上手，重重闯关等你挑战； 更有猜歇后语、智者争霸、猜谜语、猜剧、笑话大全等不同类型的等你来探索。</p>
 	</div>
 	<div style="display: flex; margin-left: 6px;">
 		<img style="width: 113px; height: 200px; min-width: 113px"
-src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211022133489e2sm.jpg"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211022133537hf58.jpg"/>
-		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221102/202211022133590pjs7.jpg"/>
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/202211121206208xj0r.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/2022111212062524wl3.jpg"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/2022111212063012813.jpg"/>
 	</div>
 </section>
 
