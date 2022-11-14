@@ -20,6 +20,23 @@ src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221112/2022111212
 
 <section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
 	<div style="display: flex; flex-direction: column;">
+		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141021586rent.png"/>
+		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20221114/202211141021586rent.png">下载</a>
+	</div>
+	<div style="max-height: 200px; overflow: hidden;">
+		<b style="font-size: 16px;color: #333;">算数进步</b>
+		<p style="margin: 0; font-size: 14px;color: #999;">通过不同模式增加学的兴趣，给孩子一个快乐学习的体验。 主要功能： - 任意数字简单的加减乘除口算。 - 按不同的大纲设计的混合运算。 - 依据不同模式的挑战，强化提高算术能力。</p>
+	</div>
+	<div style="display: flex; margin-left: 6px;">
+		<img style="width: 113px; height: 200px; min-width: 113px"
+src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221114/202211141657435rp1p.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221114/202211141657463ildb.png"/>
+		<img style="width: 113px; height: 200px; min-width: 113px" src="https://swsdl.vivo.com.cn/appstore/developer/screenshot/20221114/20221114165750745bb.png"/>
+	</div>
+</section>
+
+<section style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+	<div style="display: flex; flex-direction: column;">
 		<img style="width: 142px; height: 142px; min-width: 142px; margin-right: 6px;" src="https://swsdl.vivo.com.cn/appstore/developer/icon/20220627/2022062712243443glb.png"/>
 		<a style="margin: 6px auto 0;" href="https://swsdl.vivo.com.cn/appstore/developer/icon/20220627/2022062712243443glb.png">下载</a>
 	</div>
